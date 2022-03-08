@@ -2,11 +2,10 @@
 
 - 🌱 I’m currently learning: JAVA
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with GitHub
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with: GitHub
 - 📫 How to reach me: ...
-- 😄 Pronouns:  ela/dela
-- ⚡ Fun fact: 
+- 😄 Pronouns:  Ela/Dela
+- ⚡ Fun fact: Não gosto e nem jogo online.
 
 <div align="center">
   <a href="https://github.com/tha-alline">
