@@ -1,6 +1,5 @@
-### Olá, eu sou a Thaís Alline �
-
-- 🌱 I’m currently learning: JAVA
+### Olá, eu sou a Thaís Alline  🙋‍♀️
+- 🌱 Atualmente estou aprendendo: JAVA
 - 👯 I’m looking to collaborate on: Recrutamento e Seleção, Treinamento e Desenvolvimento, DISC etc...
 - 🤔 I’m looking for help with: GitHub
 - 😄 Pronouns:  Ela/Dela
