@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on: Recrutamento e Seleção, Treinamento e Desenvolvimento, DISC etc...
 - 🤔 I’m looking for help with: GitHub
 - 😄 Pronouns:  Ela/Dela
-- ⚡ Fun fact: Não gosto e nem jogo online.
 
 <div align="center">
   <a href="https://github.com/tha-alline">
